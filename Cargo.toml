@@ -1,0 +1,12 @@
+[package]
+name = "StepnData"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ahash = "0.8"  # 或更高版本[dependencies]
+serde = "1.0"
+time = "0.3.36"
+
+[replace]
+"time:0.3.29" = { version = "0.3.36" }
