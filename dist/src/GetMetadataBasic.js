@@ -14,10 +14,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const web3_js_1 = require("@solana/web3.js");
 const fs_1 = __importDefault(require("fs"));
+//有乱码
 // Define the RPC connection and wallet address
 const connection = new web3_js_1.Connection("https://api.mainnet-beta.solana.com");
 // Replace with the wallet address you want to read tokens from
-const WALLET_ADDRESS = "7HBbnVF4XHztxkhK1hDqKMbtiDPYUuEmVvZpZKvAe3KE";
+const WALLET_ADDRESS = "EBYYDbav6QgAM7JgYJcJgSKDgDvV8edgYJH5QmaAtZ6N";
 // Clear output log file
 const LOG_FILE = 'output_log.txt';
 fs_1.default.writeFileSync(LOG_FILE, '');
@@ -117,3 +118,4 @@ function getMultipleTokenMetadata(mintAddresses) {
 }
 // Run the function
 getTokenMetadata();
+//node --no-warnings dist/src/GetMetadata_basic.js

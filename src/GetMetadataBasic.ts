@@ -5,7 +5,7 @@ import fs from 'fs';
 const connection = new Connection("https://api.mainnet-beta.solana.com");
 
 // Replace with the wallet address you want to read tokens from
-const WALLET_ADDRESS = "7HBbnVF4XHztxkhK1hDqKMbtiDPYUuEmVvZpZKvAe3KE";
+const WALLET_ADDRESS = "EBYYDbav6QgAM7JgYJcJgSKDgDvV8edgYJH5QmaAtZ6N";
 
 // Clear output log file
 const LOG_FILE = 'output_log.txt';
@@ -110,3 +110,5 @@ async function getMultipleTokenMetadata(mintAddresses: string[]) {
 
 // Run the function
 getTokenMetadata();
+
+//node --no-warnings dist/src/GetMetadata_basic.js

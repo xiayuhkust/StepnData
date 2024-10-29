@@ -36,7 +36,10 @@ const web3_js_1 = require("@solana/web3.js");
 const fs = __importStar(require("fs"));
 // Set up a connection to the Solana blockchain
 const connection = new web3_js_1.Connection('https://api.mainnet-beta.solana.com');
-// Function to get all tokens in a wallet
+// Define GST and GMT token addresses
+const GST_TOKEN_ADDRESS = '7oNHoLSnYE84fsVgfKmWFiW8V2T72PLqDN4F9SB7MnNu';
+const GMT_TOKEN_ADDRESS = '7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT';
+// Function to get all tokens in a wallet and filter for GST and GMT
 function getTokensInWallet(walletAddress) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
@@ -50,13 +53,16 @@ function getTokensInWallet(walletAddress) {
                 const accountData = accountInfo.account.data;
                 const mintAddress = new web3_js_1.PublicKey(accountData.slice(0, 32)).toBase58();
                 const amount = accountData.readBigUInt64LE(64).toString();
-                tokens.push({
-                    address: accountInfo.pubkey.toBase58(),
-                    mint: mintAddress,
-                    amount: amount,
-                });
+                // Only keep GST and GMT tokens
+                if (mintAddress === GST_TOKEN_ADDRESS || mintAddress === GMT_TOKEN_ADDRESS) {
+                    tokens.push({
+                        address: accountInfo.pubkey.toBase58(),
+                        mint: mintAddress,
+                        amount: amount,
+                    });
+                }
             }
-            // Write tokens to output_log.txt
+            // Write filtered tokens to output_log.txt
             fs.writeFileSync('output_log.txt', JSON.stringify(tokens, null, 2));
             return tokens;
         }
@@ -70,5 +76,5 @@ function getTokensInWallet(walletAddress) {
 // Clear output_log.txt before each run
 fs.writeFileSync('output_log.txt', '');
 // Example usage
-const walletAddress = '7HBbnVF4XHztxkhK1hDqKMbtiDPYUuEmVvZpZKvAe3KE';
+const walletAddress = 'EBYYDbav6QgAM7JgYJcJgSKDgDvV8edgYJH5QmaAtZ6N';
 getTokensInWallet(walletAddress);

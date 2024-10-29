@@ -63,14 +63,14 @@ function getTokensMetadataInWallet(walletAddress) {
                 console.log(`Fetching metadata for mint address: ${token.mint}`);
                 fs.appendFileSync('output_log.txt', `Fetching metadata for mint address: ${token.mint}\n`);
                 const metadata = yield (0, GetMetadataFromMint_1.fetchNftMetadata)(token.mint);
-                if (metadata) {
+                if (metadata && metadata.collection && metadata.collection.name === "STEPN Sneaker") {
                     metadataList.push({
                         tokenInfo: token,
                         metadata: metadata,
                     });
                 }
             }
-            // Write metadata to output_log.txt
+            // Write filtered metadata to output_log.txt
             fs.writeFileSync('output_log.txt', JSON.stringify(metadataList, null, 2));
             return metadataList;
         }
@@ -84,5 +84,5 @@ function getTokensMetadataInWallet(walletAddress) {
 // Clear output_log.txt before each run
 fs.writeFileSync('output_log.txt', '');
 // Example usage
-const walletAddress = '7HBbnVF4XHztxkhK1hDqKMbtiDPYUuEmVvZpZKvAe3KE';
+const walletAddress = 'EBYYDbav6QgAM7JgYJcJgSKDgDvV8edgYJH5QmaAtZ6N';
 getTokensMetadataInWallet(walletAddress);

@@ -1,0 +1,974 @@
+[
+  {
+    "tokenInfo": {
+      "address": "8AUCftcJyrkY81LxZsesoohpv1v9MnY8rX5xm8FBXVTB",
+      "mint": "4TYLxc2zVMBteK7NaDeMn9PpyFwDsTAosNiChB9jG7d9",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #50945",
+      "symbol": "",
+      "description": "STEPN x Claynosaurz Sneakers. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/tU1mcEVghIXMZTjfTdk6zpN1LY7RKiPmHrN1cgNEl6Q",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/tU1mcEVghIXMZTjfTdk6zpN1LY7RKiPmHrN1cgNEl6Q",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Walker"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "STEPN x Claynosaurz"
+        },
+        {
+          "trait_type": "Level",
+          "value": "0"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-6.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "0/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "5.2"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "4.7"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "1.2"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "10.0"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "Bysc3p88yFNpqNUmEVMbXYkrvkPCjNvyqj7keQShc5uv",
+      "mint": "JDwEvaN8GHVvkPy7RMXVxCaJc7UfViAgRDmGne7s18ET",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #51641",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "5"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "1/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "6.6"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "4.0"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "3.4"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "6.5"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "CSpawbyT77wcY8rsyEpWfgJsXFymJrdfXrEEBVP7xk4j",
+      "mint": "3XnvEhwwJ2yeoUwB4x41rACnagjGy3XSbd3idy3wRwEf",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #45920",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "4"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "0/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "3.8"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "6.9"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "2.1"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "2.6"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "HHzhuuBLDN3L7i1AxMF4mmRmaNMktibJqcokHSpqFyZo",
+      "mint": "Gg6PwYrENS8KDda59GQDQnvYdCiyZeBxNXAa8UXqrRtA",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "MOOAR Sneaker #12785",
+      "symbol": "",
+      "description": "MOOAR Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/y-i0oz3ApVMSuHVs2zvnpjGnSP5SUrUq2gdwsir-9pI",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/y-i0oz3ApVMSuHVs2zvnpjGnSP5SUrUq2gdwsir-9pI",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR"
+        },
+        {
+          "trait_type": "Level",
+          "value": "5"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "2/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "2.4"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "6.8"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "6.6"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "4.3"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "12ZtXqUnqaKwXKZM8ytAeBNJW1MM3DcboREjAbgBvhPH",
+      "mint": "96NQqG3umVDmQA6Jx3B3Etds4afTY3VEg9f32nNbuKXb",
+      "amount": "1"
+    },
+    "metadata": {
+      "name": "MOOAR Sneaker #12880",
+      "symbol": "",
+      "description": "MOOAR Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/1RPignRQdLscAdV5DElvLT02LBlzhLCH0-zrBFcrviY",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/1RPignRQdLscAdV5DElvLT02LBlzhLCH0-zrBFcrviY",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR"
+        },
+        {
+          "trait_type": "Level",
+          "value": "0"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "0/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "7.9"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "3.4"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "6.9"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "8.7"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "HppA5nFy5YuqFKKdRrW5ynijKJjGxLUXnsJGS3A4iqsr",
+      "mint": "GgDdHbrKyQpgm9Fhs45jJ4FCFkRjF1hmLWGY6oMvcw3B",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #52699",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "5"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "1/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "3.4"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "2.6"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "9.6"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "8.6"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "8cRFVu57GSm4vFEZqoxSbD4sK7yJQWXBTu287RoRcugL",
+      "mint": "HdSnm2FfVFtHa3AZsTDgXrjixs4qkC6yGG79dwFhUQwd",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #48167",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "0"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "0/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "5.4"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "2.5"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "9.8"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "9.6"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "Hid8U7Gr74vNXXB2C3hVc84Pk5oKmS3UVZcLPKM7dbbn",
+      "mint": "Akji5XCqd3PcaESVD5xr1BsN9U8giig5cjBcmxmF7rpe",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #56258",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "5"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "1/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "10.9"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "10.9"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "10.9"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "10.4"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Efficiency/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  },
+  {
+    "tokenInfo": {
+      "address": "3vEFSZE7XcLMTmkwbgExsG6Lcwt47AWT55bdCS2kuALN",
+      "mint": "CRqBgmDh7HMdf7e5iyPP6yiGmrTMBC1eDRQq7bt4Uqfg",
+      "amount": "0"
+    },
+    "metadata": {
+      "name": "Sneaker #59698",
+      "symbol": "",
+      "description": "MOOAR Frens OG Sneaker. NFT Sneaker, use it in STEPN to move2earn",
+      "seller_fee_basis_points": 400,
+      "image": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+      "external_url": "https://stepn.com",
+      "properties": {
+        "files": [
+          {
+            "uri": "https://arweave.net/43f2W2tmBVjXDDYxAIbY17aNX0Sd-MOC1LdEHhxILl4",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
+            "share": 100
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "trait_type": "Sneaker type",
+          "value": "Trainer"
+        },
+        {
+          "trait_type": "Sneaker quality",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "OG"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "MOOAR FRENS"
+        },
+        {
+          "trait_type": "Level",
+          "value": "5"
+        },
+        {
+          "trait_type": "Optimal Speed",
+          "value": "1.0-20.0km/h"
+        },
+        {
+          "trait_type": "Shoe-minting Count",
+          "value": "4/7"
+        },
+        {
+          "trait_type": "Efficiency",
+          "value": "8.5"
+        },
+        {
+          "trait_type": "Luck",
+          "value": "6.5"
+        },
+        {
+          "trait_type": "Comfortability",
+          "value": "6.5"
+        },
+        {
+          "trait_type": "Resilience",
+          "value": "9.6"
+        },
+        {
+          "trait_type": "Durability",
+          "value": "100/100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100.00%"
+        },
+        {
+          "trait_type": "Socket 1",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 2",
+          "value": "Durability/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 3",
+          "value": "Luck/unknown/empty"
+        },
+        {
+          "trait_type": "Socket 4",
+          "value": "Comfort/unknown/empty"
+        },
+        {
+          "trait_type": "Badge",
+          "value": "None"
+        }
+      ],
+      "collection": {
+        "name": "STEPN Sneaker",
+        "family": "STEPN"
+      }
+    }
+  }
+]

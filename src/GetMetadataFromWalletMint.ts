@@ -48,7 +48,7 @@ async function getTokensMetadataInWallet(walletAddress: string) {
       console.log(`Fetching metadata for mint address: ${token.mint}`);
       fs.appendFileSync('output_log.txt', `Fetching metadata for mint address: ${token.mint}\n`);
       const metadata = await fetchNftMetadata(token.mint);
-      if (metadata) {
+      if (metadata && metadata.collection && metadata.collection.name === "STEPN Sneaker") {
         metadataList.push({
           tokenInfo: token,
           metadata: metadata,
@@ -56,7 +56,7 @@ async function getTokensMetadataInWallet(walletAddress: string) {
       }
     }
 
-    // Write metadata to output_log.txt
+    // Write filtered metadata to output_log.txt
     fs.writeFileSync('output_log.txt', JSON.stringify(metadataList, null, 2));
     return metadataList;
   } catch (error) {
@@ -70,5 +70,5 @@ async function getTokensMetadataInWallet(walletAddress: string) {
 fs.writeFileSync('output_log.txt', '');
 
 // Example usage
-const walletAddress = '7HBbnVF4XHztxkhK1hDqKMbtiDPYUuEmVvZpZKvAe3KE';
+const walletAddress = 'EBYYDbav6QgAM7JgYJcJgSKDgDvV8edgYJH5QmaAtZ6N';
 getTokensMetadataInWallet(walletAddress);
